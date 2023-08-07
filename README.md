@@ -18,7 +18,7 @@ This Python script is designed to analyze network traffic and throughput data fr
 5. Run the script using the following command:
 
   ``` bash
-  python analyze_traffic.py <path_to_zip_file>
+  python traffic_analyzer.py <path_to_zip_file>
 ```
 ## Configuration
 Configure the steady segment
@@ -37,7 +37,7 @@ The script will generate the following outputs in the ./csvs directory:
 ## Example
 Suppose you have a zip file named data.zip containing client-throughput.csv and client-traffic-profile.csv. You can analyze the data by running:
 ```bash
-python analyze_traffic.py data.zip
+python traffic_analyzer.py data.zip
 ```
 ## License
 This script is provided under the MIT License. Feel free to use and modify it according to your needs.
