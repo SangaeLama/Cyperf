@@ -36,8 +36,9 @@ The script will generate the following outputs in the ./csvs directory:
 
 ## Example
 Suppose you have a zip file named data.zip containing client-throughput.csv and client-traffic-profile.csv. You can analyze the data by running:
-``` python analyze_traffic.py data.zip
-
+```bash
+python Cyperf-report.py data.zip
+```
 ## License
 This script is provided under the MIT License. Feel free to use and modify it according to your needs.
 
