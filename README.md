@@ -21,10 +21,10 @@ This Python script is designed to analyze network traffic and throughput data fr
   python analyze_traffic.py <path_to_zip_file>
 ```
 ## Configuration
-#Configure the steady segment
-rampup_steps = 12
-step_duration = 30
-steady_segment_duration = 180
+Configure the steady segment
+- rampup_steps = 12
+- step_duration = 30
+- steady_segment_duration = 180
 
 
 ## Output
