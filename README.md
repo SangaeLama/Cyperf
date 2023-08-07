@@ -17,9 +17,9 @@ This Python script is designed to analyze network traffic and throughput data fr
 4. Open a terminal or command prompt and navigate to the repository folder.
 5. Run the script using the following command:
 
-```bash
-python analyze_traffic.py <path_to_zip_file>
-
+  ``` bash
+  python analyze_traffic.py <path_to_zip_file>
+```
 ## Configuration
 #Configure the steady segment
 rampup_steps = 12
