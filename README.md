@@ -1,6 +1,6 @@
 # Data Analysis Script for Traffic and Throughput Analysis
 
-This Python script is designed to analyze network traffic and throughput data from provided CSV files. It calculates various metrics and generates insightful statistics related to network behavior during a steady segment. The script is intended for network analysis professionals and researchers.
+This Python script is designed to analyze network traffic and throughput data from provided CSV files. It calculates various metrics and generates insightful statistics related to network behavior during a steady segment. The script is intended for network analysis professionals and researchers using Cyperf for testing network performance on devices.
 
 ## Requirements
 
